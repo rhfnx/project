@@ -1,5 +1,5 @@
 # SMET is a script, trust me
-i build this, just to deepen when learning the python programming language
+i build this, just to deepen when learning python programming language
 
 this is a instagram and youtube webscraper using the instaloader module and pytube module
 
@@ -9,7 +9,5 @@ im trying to make "ease of use" so i build this script, but this script still in
 
 
 only work using linux or you can use WSL
-
-because i coding it in linux
 
 go to the ```smet``` folder and then type ```python3 main.py``` in your terminal
