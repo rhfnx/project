@@ -2,4 +2,4 @@
 i build this, just to deepen when learning the python programming language
 
 
-only workd using linux
+only work using linux
