@@ -1,0 +1,8 @@
+|Author: NRA        |                               |
+|Version: v.1.0     | Social Media Experiment Tools |
+|Github: @rhfnx     |                               |
+                    
+ATTENTION: 
+    This Tools will help user to do something that in real social media 
+    application can't do. All the material are provide for educational 
+    purposes only. so please use it wise and carefullly!

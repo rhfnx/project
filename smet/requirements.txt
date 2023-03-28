@@ -1,0 +1,6 @@
+os
+colorama
+instaloader
+time
+bullet
+pytube
