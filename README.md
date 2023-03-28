@@ -9,4 +9,4 @@ only work using linux or you can use WSL
 
 because i coding it in linux
 
-go to the smet folder and then type ```python3 main.py```
+go to the smet folder and then type ```python3 main.py``` in your terminal
