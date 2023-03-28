@@ -3,3 +3,4 @@ i build this, just to deepen when learning the python programming language
 
 
 only work using linux
+because i coding it in linux
