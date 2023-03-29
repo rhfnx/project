@@ -1,7 +1,7 @@
 # SMET is a script, trust me
 i build this, just to deepen when learning python programming language
 
-this is a instagram and youtube webscraper using the instaloader module and pytube module
+this is a instagram and youtube tools using the instaloader module and pytube module
 
 im trying to make "ease of use" so i build this script, but this script still in being developed
 
