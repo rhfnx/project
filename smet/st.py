@@ -29,7 +29,7 @@ class MAIN:
             )
 
     def ExitFucntion():
-        print(R+'\n[Exit Socio Tools]')
+        print(R+'\n[Exit from SMET]')
         exit()
 
     def MainBody():
